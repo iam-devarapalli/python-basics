@@ -1,3 +1,1 @@
-# Python-Basics
-
 A beginner-friendly Python repository covering core concepts, data types, operators, control flow, functions, data structures, file handling, and exception handling, with practical examples and Jupyter notebooks.
